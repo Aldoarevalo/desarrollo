@@ -1,0 +1,4 @@
+1-carpeta appventas copiar en httdoc son los webservices
+2-AppVentasY (es el proyecto Android)
+3- Hay 2 versiones del script de base de datos uno para recuperar de PHPMYADMIN
+y otro del YogSql.
